@@ -1,4 +1,4 @@
-#EcoPlast Solution - Waste Management Mobile App#
+*EcoPlast Solution - Waste Management Mobile App*
 
 Ecoplast Solutions is a platform that aims to provide a smart recycling solution for plastic waste, educate users about the harmful effects of waste pollution, and promote responsible waste management practices. The Waste Management Platform will encompass features such as user registration and authentication, waste disposal tracking, educational resources on waste pollution, and feedback mechanisms. The scope includes the development of both the user-facing interface and the underlying infrastructure necessary to support the platform's functionality. The mobile app aims to provide users with easy access to information about the organization, its services, and how to get involved as a volunteer. The app is built using the Flutter framework.
 
